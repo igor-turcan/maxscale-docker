@@ -2,7 +2,7 @@
 #Real World Project: Database Shard Github
 #Professor: Zachary Rubin
 #Student: Igor Turcan
-#Contributrs: Dorin Vozian.
+#Contributrs: Dorin, Vlado, Mohammad, Abdy, Saeid, Luma.
 #Tutoring help Liviu Patrasco
 
 import pymysql
