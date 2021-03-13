@@ -6,7 +6,7 @@
 #Tutoring help Liviu Patrasco
 
 import pymysql
-host = "172.20.0.1"
+host = "10.0.0.227"
 port = 4000
 user = "maxuser"
 password = "maxpwd"
